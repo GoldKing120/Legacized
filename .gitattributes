@@ -1,2 +1,0 @@
-Legacized[[:space:]]1.21.4[[:space:]]0.0.2.zip filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
