@@ -1,0 +1,5 @@
+### Some tweaks made:
+-Updated Minimega
+-Added old recipe to Enchanted Golden Apple
+-Added Foggy Border. This was to add _some_ effect of the old LCE border. We are still working on to make the Void border, similar to LCE. Stay tuned!
+-Added Modpack Update Checker.
