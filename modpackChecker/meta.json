@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+     {
+        "id": "1.2.1",
+        "releasedAt": 1749912000000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/legacized/version/1.2.1"
+            }
+        }
+    }
   ]
 }
