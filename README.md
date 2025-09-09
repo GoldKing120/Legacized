@@ -1,6 +1,8 @@
 # Welcome to Legacized!
 Welcome to the revolutionary modpack that brings back LCE(Legacy Console Edition), for Java Edition! We use the best mods (primarily Legacy4j) to not only recreate the classic experience, but also bring more content that fits the nostaligc feel and make everything cleaner!
 
+### You can download here!: https://modrinth.com/modpack/legacized
+
 ### Features included:
 - Classic menu, crafting, interface, and everything you can imagine related to the screen!
 - Online support! Using the mod World Host, you can friend other players who use this modpack, and join each other in your personal worlds!
