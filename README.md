@@ -12,7 +12,7 @@ Minimega, you can now play classic games, such as Glide, and fanmade games, such
 - Texture Packs, World Templates, and Skin Packs from your old Mash-Ups! You can now use most Texture Packs and Skin Packs lost to the consoles, with custom ones added too! Select your style, from celebrating the holidays with the Festive Mash-Up, or dressing up as Jeb himself with the Skin Packs! (Most World Templates are still missing, but are being added eventually!)
 - Lots of small but fun tweeks, such as Golden Apple recipes, a classic World Generation option, foggy world borders, and much much more!
 - Controller support, provided by Legacy4j. Connect various controllers, such as Xbox, Nintendo Switch, Playstation, and others! The "Edition" on the title screen changes to your controller style too!
-- Legacy4j is the main power behing all of this. Without this mod, this modpack wouldn't be here today. Please check out Legacy4j on their Modrinth!: https://modrinth.com/mod/legacy4j
+- Legacy4j is the main power behind all of this. Without this mod, this modpack wouldn't be here today. Please check out Legacy4j on their Modrinth!: https://modrinth.com/mod/legacy4j
 
 Got questions, issues, bug reports, update ideas, etc.? Check out our Issues page!: https://github.com/GoldKing120/Legacized/issues
 
