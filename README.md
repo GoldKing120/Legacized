@@ -14,4 +14,4 @@ Welcome to the revolutionary modpack that brings back LCE(Legacy Console Edition
 
 Got questions, issues, bug reports, update ideas, etc.? Check out our Issues page!: https://github.com/GoldKing120/Legacized/issues
 
-Thanks a trillion for downloading!
+Thanks a ton for downloading!
