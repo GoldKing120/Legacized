@@ -1,6 +1,7 @@
 # Welcome to Legacized!
 Welcome to the revolutionary modpack that brings back LCE(Legacy Console Edition), for Java Edition! We use the best mods (primarily Legacy4j) to not only recreate the classic experience, but also bring more content that fits the nostaligc feel and make everything cleaner!
-<img width="256" height="256" alt="LegacizedTransparency" src="https://github.com/user-attachments/assets/e344716e-93c0-44af-bcb5-89b39055c9dc" />
+
+<img width="128" height="128" alt="LegacizedTransparency" src="https://github.com/user-attachments/assets/0398103e-f175-4801-bdb0-ff9fd364bd72" />
 
 ### You can download here!: https://modrinth.com/modpack/legacized
 
