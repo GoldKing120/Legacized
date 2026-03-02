@@ -4,7 +4,7 @@
 
 ✨ This modpack uses Legacy4j and other addons to bring back the feel of classic console gameplay, with all the features, textures, and interfaces you remember.
 
-![A picture of the title screen from this modpack](https://cdn.modrinth.com/data/cached_images/852a882fd5f8113c606a2611b1c7436c1d59819b_0.webp)
+<img width="480" height="270" alt="Screenshot 2026-03-02 163912" src="https://github.com/user-attachments/assets/c6fd1e93-ea0e-42fd-a04e-fffec1741451" />
 
 🌟 Features Included:
 - 👫 Multiplayer System – Join your friends, just as if you were on your old console!
@@ -13,8 +13,8 @@
 - 🎨 Classic GUI – Just like the original, with most of the menus, textures, and interfaces!
 - 🎭 Texture Packs and Skin Selection – Most of the old packs now available, again!
 - ...and more!
-- 
-![A view from the Tutorial World using the Minecraft Classic Texture Pack](https://cdn.modrinth.com/data/cached_images/b01b49a08f9fdd192f005e3c5a3f4e2cf137d2fb_0.webp)
+
+<img width="480" height="270" alt="Screenshot 2026-02-28 140935" src="https://github.com/user-attachments/assets/2c390776-1d9d-48fd-901c-08f8fb52898f" />
 
 🔹 Experience the gameplay just as you remember it!This  modpack is your portal to the legacy version of Minecraft Console Edition.
 
